@@ -1,0 +1,2 @@
+# Automatically-generating-training-data-through-symbol-reconstruction
+This repository holds the code and documentation for the paper "Jiao, C., Heitzler, M. and Hurni, L., 2022. A fast and effective deep learning approach for road extraction from historical maps by automatically generating training data with symbol reconstruction. International Journal of Applied Earth Observation and Geoinformation, 113, p.102980."
