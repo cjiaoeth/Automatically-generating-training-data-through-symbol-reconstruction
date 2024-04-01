@@ -1,0 +1,8 @@
+{
+    "type" : "shp_vector_distributed",
+    "name" : "training_features",
+    "dimensions" : ["scale", "year", "type"],
+    "default_values": ["25", "1940", "riverlake"],
+    "location" : "training/$type$/$year$/data.shp",
+    "relative" : "True"
+}

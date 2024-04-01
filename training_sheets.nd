@@ -1,0 +1,9 @@
+{
+    "type" : "distributed_raster",
+    "name" : "siegfried_$scale$_$year$",
+    "dimensions" : ["scale", "year"],
+    "default_values": ["25", "1940"],
+    "location" : "../../../vrts/$scale$/$year$.vrt",
+    "relative" : "True",
+    "provider": "gdal"
+}

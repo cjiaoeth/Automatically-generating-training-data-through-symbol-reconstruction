@@ -1,0 +1,8 @@
+{
+    "type" : "shp_vector",
+    "name" : "training_data",
+    "dimensions" : ["scale", "year"],
+    "dimension_fields": ["scale", "year"],
+    "location" : "points_aggregated_selected.shp",
+    "relative" : "True"
+}
